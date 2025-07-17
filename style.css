@@ -23,7 +23,7 @@
 .nav-bar h4 {
 
 
-    color: #4E47FF;
+    color: #4642c7;
     font-size: 32px;
     padding: 12px;
     margin-top: 24px;
@@ -34,7 +34,7 @@
 .capsul {
     width: 118px;
     height: 36px;
-    background-color: #4E47FF;
+    background-color: #433fc4;
     border: none;
     border-radius: 8px;
 
@@ -162,7 +162,7 @@ h2 {
     text-align: center;
     font-size: 2rem;
     margin-bottom: 40px;
-    color: #1a1a1a;
+    color: #363333;
 }
 
 .testimonials {
@@ -186,7 +186,7 @@ h2 {
 
 
 .stars {
-    color: #facc15;
+    color: #b6a666;
     font-size: 1.2rem;
     margin-bottom: 10px;
 }
@@ -198,7 +198,7 @@ h2 {
 }
 
 .text {
-    color: #555;
+    color: #937b7b;
     font-size: 0.95rem;
     margin-bottom: 20px;
 }
@@ -277,7 +277,40 @@ h2 {
     font-weight: bold;
     color: #e5e4f7;
 }
+.footer-sec {
+    background-color: #f0dddd;
 
+
+}
+
+.footer-sec .text {
+    max-width: 520px;
+    height: 380px;
+    justify-content: center;
+    text-align: center;
+    margin: 0px auto;
+
+
+}
+
+.footer-sec .text h3 {
+    padding-top: 40px;
+    font-weight: bold;
+    font-size: 60px;
+    color: #3732d0;
+}
+
+
+
+.footer-sec .text .flex {
+    display: flex;
+
+}
+
+.footer-sec .text .flex p {
+
+    margin: 10px 30px;
+}
 
 
 
